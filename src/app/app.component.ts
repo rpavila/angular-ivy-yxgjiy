@@ -1,5 +1,5 @@
 import { Component, VERSION, ViewChild } from '@angular/core';
-import { NgbDropdown } from '@@ng-bootstrap/ng-bootstrap';
+import { NgbDropdown } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'my-app',
